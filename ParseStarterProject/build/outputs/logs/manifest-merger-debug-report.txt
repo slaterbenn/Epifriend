@@ -1,0 +1,271 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\marie\Desktop\Epifriend\EpiFriend\ParseStarterProject\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from C:\Users\marie\Desktop\Epifriend\EpiFriend\ParseStarterProject\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from C:\Users\marie\Desktop\Epifriend\EpiFriend\ParseStarterProject\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from C:\Users\marie\Desktop\Epifriend\EpiFriend\ParseStarterProject\src\main\AndroidManifest.xml:2:1-54:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\2cdde2d6566d92d1351fdf725461057f\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\241b652affe5c15d1154ff2ccfc9992d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.parse:parse-android:1.15.8] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\9185f6f414ef4a3d55d4d005dfb070b1\AndroidManifest.xml:10:1-24:12
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\acff0ea990c68b039a1d531ad5716c5c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\203b5498a7aba7894a02ba1fa1004310\AndroidManifest.xml:17:1-32:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\0f7474398f7798ea519daadb4bd7085a\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\2cec00148444f6f652d13005d85dd7b9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\ca38d2bd6da1665540ee458a2ba04c9f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\20fdcddb1c9e63390dd561c5a5018d76\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v13:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\b3b84a3d2d0f2ee23c2d04e01986f643\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\7a67782808a27db332231eeba0ebc9f4\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\b50481f598ee5e30b06aba5c26c27bcb\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\a3a07d9e4a29b8fc20131072a6e27168\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\e15dcca7222b9e78144e2b68a1979770\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\0c962fc255b7f9989b5a4546932a217c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\3eb7272be1a3d16396ca8736feac0f7d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\d799cffbd8c9ce196c39377390e92db5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\2a8ca9315ecb479d3713f0d12c0afc5a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\33ad766557508247013745456c5186fe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\f2e0e56faf6dbf986f16b1091a01838b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\6042b38819e9937606992c0e3555a89e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\86c401eb07c48fd5eb0cb8ec6f972616\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\13ebbcfff9985b18b6539da7ddf54b37\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\a5523e90d6cb5a391d5b8464091c6132\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\68ad0761c516cd0caad3ddd11122c302\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\0d3bf26bde45f40dfec52eef0252141e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\5c8d886300686e7b03d270725336c0ea\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\6d10bd5978f665de36f74f6dafa57935\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\bff915aa4eded98b2a72abfb538217f0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\c07d5a53adefb7b40762f21b09dce4a4\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\641bc692fcd934cc436f2c1b800f70a0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\655685707a2bcbd1a3fdac8d2e1621ac\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\7d50365fade383d452eab6ceb2a71a0e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\7c4d2d0f03feff4d3aa4be4f7b5ce916\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\39d6174462c46972e98a8f7e9246daf6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\cddb538bf0709738954c948dcd29c257\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\6bf62e7bd3a2e099666e59287638dbb6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\c532d6681899bf1756c27e3afe1415af\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\bef94f2c9596a11ae08ac7366cceb0cf\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\6960ec34b8e7411dc03a82b84433a4ac\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\marie\Desktop\Epifriend\EpiFriend\ParseStarterProject\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from C:\Users\marie\Desktop\Epifriend\EpiFriend\ParseStarterProject\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from C:\Users\marie\Desktop\Epifriend\EpiFriend\ParseStarterProject\src\main\AndroidManifest.xml:2:1-54:12
+	package
+		ADDED from C:\Users\marie\Desktop\Epifriend\EpiFriend\ParseStarterProject\src\main\AndroidManifest.xml:3:5-32
+		INJECTED from C:\Users\marie\Desktop\Epifriend\EpiFriend\ParseStarterProject\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\marie\Desktop\Epifriend\EpiFriend\ParseStarterProject\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\marie\Desktop\Epifriend\EpiFriend\ParseStarterProject\src\main\AndroidManifest.xml
+		ADDED from C:\Users\marie\Desktop\Epifriend\EpiFriend\ParseStarterProject\src\main\AndroidManifest.xml:2:1-54:12
+		INJECTED from C:\Users\marie\Desktop\Epifriend\EpiFriend\ParseStarterProject\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\marie\Desktop\Epifriend\EpiFriend\ParseStarterProject\src\main\AndroidManifest.xml
+		ADDED from C:\Users\marie\Desktop\Epifriend\EpiFriend\ParseStarterProject\src\main\AndroidManifest.xml:2:1-54:12
+		INJECTED from C:\Users\marie\Desktop\Epifriend\EpiFriend\ParseStarterProject\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\marie\Desktop\Epifriend\EpiFriend\ParseStarterProject\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\marie\Desktop\Epifriend\EpiFriend\ParseStarterProject\src\main\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from C:\Users\marie\Desktop\Epifriend\EpiFriend\ParseStarterProject\src\main\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\marie\Desktop\Epifriend\EpiFriend\ParseStarterProject\src\main\AndroidManifest.xml:11:5-67
+MERGED from [com.parse:parse-android:1.15.8] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\9185f6f414ef4a3d55d4d005dfb070b1\AndroidManifest.xml:19:5-67
+MERGED from [com.parse:parse-android:1.15.8] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\9185f6f414ef4a3d55d4d005dfb070b1\AndroidManifest.xml:19:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\203b5498a7aba7894a02ba1fa1004310\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\203b5498a7aba7894a02ba1fa1004310\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from C:\Users\marie\Desktop\Epifriend\EpiFriend\ParseStarterProject\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\marie\Desktop\Epifriend\EpiFriend\ParseStarterProject\src\main\AndroidManifest.xml:12:5-79
+MERGED from [com.parse:parse-android:1.15.8] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\9185f6f414ef4a3d55d4d005dfb070b1\AndroidManifest.xml:20:5-79
+MERGED from [com.parse:parse-android:1.15.8] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\9185f6f414ef4a3d55d4d005dfb070b1\AndroidManifest.xml:20:5-79
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\203b5498a7aba7894a02ba1fa1004310\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\203b5498a7aba7894a02ba1fa1004310\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from C:\Users\marie\Desktop\Epifriend\EpiFriend\ParseStarterProject\src\main\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\marie\Desktop\Epifriend\EpiFriend\ParseStarterProject\src\main\AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from C:\Users\marie\Desktop\Epifriend\EpiFriend\ParseStarterProject\src\main\AndroidManifest.xml:13:22-77
+application
+ADDED from C:\Users\marie\Desktop\Epifriend\EpiFriend\ParseStarterProject\src\main\AndroidManifest.xml:17:5-52:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\2cdde2d6566d92d1351fdf725461057f\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\2cdde2d6566d92d1351fdf725461057f\AndroidManifest.xml:22:5-20
+MERGED from [com.parse:parse-android:1.15.8] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\9185f6f414ef4a3d55d4d005dfb070b1\AndroidManifest.xml:22:5-20
+MERGED from [com.parse:parse-android:1.15.8] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\9185f6f414ef4a3d55d4d005dfb070b1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\203b5498a7aba7894a02ba1fa1004310\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\203b5498a7aba7894a02ba1fa1004310\AndroidManifest.xml:30:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\0f7474398f7798ea519daadb4bd7085a\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\0f7474398f7798ea519daadb4bd7085a\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\7a67782808a27db332231eeba0ebc9f4\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\7a67782808a27db332231eeba0ebc9f4\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\b50481f598ee5e30b06aba5c26c27bcb\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\b50481f598ee5e30b06aba5c26c27bcb\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\a3a07d9e4a29b8fc20131072a6e27168\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\a3a07d9e4a29b8fc20131072a6e27168\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\bff915aa4eded98b2a72abfb538217f0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\bff915aa4eded98b2a72abfb538217f0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\c07d5a53adefb7b40762f21b09dce4a4\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\c07d5a53adefb7b40762f21b09dce4a4\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\bff915aa4eded98b2a72abfb538217f0\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from C:\Users\marie\Desktop\Epifriend\EpiFriend\ParseStarterProject\src\main\AndroidManifest.xml:21:9-41
+	android:icon
+		ADDED from C:\Users\marie\Desktop\Epifriend\EpiFriend\ParseStarterProject\src\main\AndroidManifest.xml:20:9-43
+	android:allowBackup
+		ADDED from C:\Users\marie\Desktop\Epifriend\EpiFriend\ParseStarterProject\src\main\AndroidManifest.xml:19:9-35
+	android:theme
+		ADDED from C:\Users\marie\Desktop\Epifriend\EpiFriend\ParseStarterProject\src\main\AndroidManifest.xml:22:9-40
+	android:name
+		ADDED from C:\Users\marie\Desktop\Epifriend\EpiFriend\ParseStarterProject\src\main\AndroidManifest.xml:18:9-43
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\marie\Desktop\Epifriend\EpiFriend\ParseStarterProject\src\main\AndroidManifest.xml:32:9-34:55
+	android:value
+		ADDED from C:\Users\marie\Desktop\Epifriend\EpiFriend\ParseStarterProject\src\main\AndroidManifest.xml:34:13-52
+	android:name
+		ADDED from C:\Users\marie\Desktop\Epifriend\EpiFriend\ParseStarterProject\src\main\AndroidManifest.xml:33:13-58
+activity#com.parse.starter.ResponderLocationActivity
+ADDED from C:\Users\marie\Desktop\Epifriend\EpiFriend\ParseStarterProject\src\main\AndroidManifest.xml:36:9-38:82
+	android:label
+		ADDED from C:\Users\marie\Desktop\Epifriend\EpiFriend\ParseStarterProject\src\main\AndroidManifest.xml:38:13-70
+	android:name
+		ADDED from C:\Users\marie\Desktop\Epifriend\EpiFriend\ParseStarterProject\src\main\AndroidManifest.xml:37:13-54
+activity#com.parse.starter.ViewSosActivity
+ADDED from C:\Users\marie\Desktop\Epifriend\EpiFriend\ParseStarterProject\src\main\AndroidManifest.xml:39:9-53
+	android:name
+		ADDED from C:\Users\marie\Desktop\Epifriend\EpiFriend\ParseStarterProject\src\main\AndroidManifest.xml:39:19-50
+activity#com.parse.starter.SOSActivity
+ADDED from C:\Users\marie\Desktop\Epifriend\EpiFriend\ParseStarterProject\src\main\AndroidManifest.xml:40:9-42:58
+	android:label
+		ADDED from C:\Users\marie\Desktop\Epifriend\EpiFriend\ParseStarterProject\src\main\AndroidManifest.xml:42:13-55
+	android:name
+		ADDED from C:\Users\marie\Desktop\Epifriend\EpiFriend\ParseStarterProject\src\main\AndroidManifest.xml:41:13-40
+activity#com.parse.starter.MainActivity
+ADDED from C:\Users\marie\Desktop\Epifriend\EpiFriend\ParseStarterProject\src\main\AndroidManifest.xml:43:9-51:20
+	android:label
+		ADDED from C:\Users\marie\Desktop\Epifriend\EpiFriend\ParseStarterProject\src\main\AndroidManifest.xml:45:13-45
+	android:name
+		ADDED from C:\Users\marie\Desktop\Epifriend\EpiFriend\ParseStarterProject\src\main\AndroidManifest.xml:44:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\marie\Desktop\Epifriend\EpiFriend\ParseStarterProject\src\main\AndroidManifest.xml:46:13-50:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\marie\Desktop\Epifriend\EpiFriend\ParseStarterProject\src\main\AndroidManifest.xml:47:17-69
+	android:name
+		ADDED from C:\Users\marie\Desktop\Epifriend\EpiFriend\ParseStarterProject\src\main\AndroidManifest.xml:47:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\marie\Desktop\Epifriend\EpiFriend\ParseStarterProject\src\main\AndroidManifest.xml:49:17-77
+	android:name
+		ADDED from C:\Users\marie\Desktop\Epifriend\EpiFriend\ParseStarterProject\src\main\AndroidManifest.xml:49:27-74
+uses-sdk
+INJECTED from C:\Users\marie\Desktop\Epifriend\EpiFriend\ParseStarterProject\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\marie\Desktop\Epifriend\EpiFriend\ParseStarterProject\src\main\AndroidManifest.xml
+INJECTED from C:\Users\marie\Desktop\Epifriend\EpiFriend\ParseStarterProject\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\2cdde2d6566d92d1351fdf725461057f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\2cdde2d6566d92d1351fdf725461057f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\241b652affe5c15d1154ff2ccfc9992d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\241b652affe5c15d1154ff2ccfc9992d\AndroidManifest.xml:20:5-44
+MERGED from [com.parse:parse-android:1.15.8] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\9185f6f414ef4a3d55d4d005dfb070b1\AndroidManifest.xml:15:5-17:41
+MERGED from [com.parse:parse-android:1.15.8] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\9185f6f414ef4a3d55d4d005dfb070b1\AndroidManifest.xml:15:5-17:41
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\acff0ea990c68b039a1d531ad5716c5c\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\acff0ea990c68b039a1d531ad5716c5c\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\203b5498a7aba7894a02ba1fa1004310\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\203b5498a7aba7894a02ba1fa1004310\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\0f7474398f7798ea519daadb4bd7085a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\0f7474398f7798ea519daadb4bd7085a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\2cec00148444f6f652d13005d85dd7b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\2cec00148444f6f652d13005d85dd7b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\ca38d2bd6da1665540ee458a2ba04c9f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\ca38d2bd6da1665540ee458a2ba04c9f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\20fdcddb1c9e63390dd561c5a5018d76\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\20fdcddb1c9e63390dd561c5a5018d76\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\b3b84a3d2d0f2ee23c2d04e01986f643\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\b3b84a3d2d0f2ee23c2d04e01986f643\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\7a67782808a27db332231eeba0ebc9f4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\7a67782808a27db332231eeba0ebc9f4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\b50481f598ee5e30b06aba5c26c27bcb\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\b50481f598ee5e30b06aba5c26c27bcb\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\a3a07d9e4a29b8fc20131072a6e27168\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\a3a07d9e4a29b8fc20131072a6e27168\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\e15dcca7222b9e78144e2b68a1979770\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\e15dcca7222b9e78144e2b68a1979770\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\0c962fc255b7f9989b5a4546932a217c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\0c962fc255b7f9989b5a4546932a217c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\3eb7272be1a3d16396ca8736feac0f7d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\3eb7272be1a3d16396ca8736feac0f7d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\d799cffbd8c9ce196c39377390e92db5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\d799cffbd8c9ce196c39377390e92db5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\2a8ca9315ecb479d3713f0d12c0afc5a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\2a8ca9315ecb479d3713f0d12c0afc5a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\33ad766557508247013745456c5186fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\33ad766557508247013745456c5186fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\f2e0e56faf6dbf986f16b1091a01838b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\f2e0e56faf6dbf986f16b1091a01838b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\6042b38819e9937606992c0e3555a89e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\6042b38819e9937606992c0e3555a89e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\86c401eb07c48fd5eb0cb8ec6f972616\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\86c401eb07c48fd5eb0cb8ec6f972616\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\13ebbcfff9985b18b6539da7ddf54b37\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\13ebbcfff9985b18b6539da7ddf54b37\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\a5523e90d6cb5a391d5b8464091c6132\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\a5523e90d6cb5a391d5b8464091c6132\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\68ad0761c516cd0caad3ddd11122c302\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\68ad0761c516cd0caad3ddd11122c302\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\0d3bf26bde45f40dfec52eef0252141e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\0d3bf26bde45f40dfec52eef0252141e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\5c8d886300686e7b03d270725336c0ea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\5c8d886300686e7b03d270725336c0ea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\6d10bd5978f665de36f74f6dafa57935\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\6d10bd5978f665de36f74f6dafa57935\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\bff915aa4eded98b2a72abfb538217f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\bff915aa4eded98b2a72abfb538217f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\c07d5a53adefb7b40762f21b09dce4a4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\c07d5a53adefb7b40762f21b09dce4a4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\641bc692fcd934cc436f2c1b800f70a0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\641bc692fcd934cc436f2c1b800f70a0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\655685707a2bcbd1a3fdac8d2e1621ac\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\655685707a2bcbd1a3fdac8d2e1621ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\7d50365fade383d452eab6ceb2a71a0e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\7d50365fade383d452eab6ceb2a71a0e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\7c4d2d0f03feff4d3aa4be4f7b5ce916\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\7c4d2d0f03feff4d3aa4be4f7b5ce916\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\39d6174462c46972e98a8f7e9246daf6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\39d6174462c46972e98a8f7e9246daf6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\cddb538bf0709738954c948dcd29c257\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\cddb538bf0709738954c948dcd29c257\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\6bf62e7bd3a2e099666e59287638dbb6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\6bf62e7bd3a2e099666e59287638dbb6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\c532d6681899bf1756c27e3afe1415af\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\c532d6681899bf1756c27e3afe1415af\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\bef94f2c9596a11ae08ac7366cceb0cf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\bef94f2c9596a11ae08ac7366cceb0cf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\6960ec34b8e7411dc03a82b84433a4ac\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\6960ec34b8e7411dc03a82b84433a4ac\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\marie\Desktop\Epifriend\EpiFriend\ParseStarterProject\src\main\AndroidManifest.xml
+INJECTED from C:\Users\marie\Desktop\Epifriend\EpiFriend\ParseStarterProject\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\marie\Desktop\Epifriend\EpiFriend\ParseStarterProject\src\main\AndroidManifest.xml
+		ADDED from C:\Users\marie\Desktop\Epifriend\EpiFriend\ParseStarterProject\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\marie\Desktop\Epifriend\EpiFriend\ParseStarterProject\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\marie\Desktop\Epifriend\EpiFriend\ParseStarterProject\src\main\AndroidManifest.xml
+		ADDED from C:\Users\marie\Desktop\Epifriend\EpiFriend\ParseStarterProject\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\marie\Desktop\Epifriend\EpiFriend\ParseStarterProject\src\main\AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\203b5498a7aba7894a02ba1fa1004310\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\203b5498a7aba7894a02ba1fa1004310\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\203b5498a7aba7894a02ba1fa1004310\AndroidManifest.xml:28:9-32
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\7a67782808a27db332231eeba0ebc9f4\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\7a67782808a27db332231eeba0ebc9f4\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\7a67782808a27db332231eeba0ebc9f4\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\7a67782808a27db332231eeba0ebc9f4\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\a3a07d9e4a29b8fc20131072a6e27168\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\a3a07d9e4a29b8fc20131072a6e27168\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\marie\.gradle\caches\transforms-2\files-2.1\a3a07d9e4a29b8fc20131072a6e27168\AndroidManifest.xml:24:13-58
